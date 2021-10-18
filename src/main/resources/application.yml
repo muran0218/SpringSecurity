@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    username: root
+    password: root
+    url: jdbc:mysql:///mrp2105?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
